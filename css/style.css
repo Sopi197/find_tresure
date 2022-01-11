@@ -1,0 +1,23 @@
+
+.first_string {
+   color: #ece;
+   font-style: italic;
+   font-family: fantasy;
+   font-weight: 200;
+   max-width: 400px;
+   font-size: 24px;
+}
+
+.map{
+   display: block;
+}
+
+#distance {
+   font-size: 18px;
+   color: #c8ed0c;
+   font-family: monospace;
+   background: #9900CC;
+   display: inline-block;
+   border-radius: 10px;
+   padding: 10px 20px;
+}
